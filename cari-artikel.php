@@ -242,7 +242,7 @@ $num = mysqli_num_rows($has);
 			<a class="btn btn-primary float-right disabled">Next &rarr;</a>
 			<?php }	?>
 			<?php
-			  }
+		}
 			}
 			?>
 
